@@ -1,5 +1,4 @@
 # Predicting-Insurance-Prices-using-ML
-
 1.Model used : Linear Regression
 Training Accuracy : 0.751021128782926, Testing Accuracy : 0.7468054150993881
 
